@@ -9,13 +9,13 @@
       "sha256": "4dc85c24c1c367a32618a5330f2bf3041c33443ad36fbf5278a8e6bb39997b0f",
       "size": 710
     },
-    "assets/index-BzuFWBWM.js": {
-      "sha256": "119d0e201ef41ba5403cd0627aef56ac19263706b9d00b2ebfdddf8e53e2f213",
-      "size": 366418
-    },
     "assets/index-C6FMLjCI.css": {
       "sha256": "da22f623305ba14e9883e562999650cb29b823a8ee4e8c752914a8036bdc8abc",
       "size": 20473
+    },
+    "assets/index-CbPK6Aek.js": {
+      "sha256": "4f52947003c6c98cc8b9fa2be206bd18d5242398bb1818f879c8b9968f2ad7ae",
+      "size": 367992
     },
     "assets/workbox-window.prod.es5-Bd17z0YL.js": {
       "sha256": "17bcc17d60dc78f927834b880c39649b03af46fd1f5cdbb8c42c5ae2b515dce9",
@@ -26,7 +26,7 @@
       "size": 376
     },
     "index.html": {
-      "sha256": "0e8fb3f109df3079433a6dc93d30430eb030e063026e045b04ddfca4fc78f49e",
+      "sha256": "08bb9eff01f3abe51a0de608efe7ca2530d7a9bb630f84359725ab4cb3a06fd3",
       "size": 908
     },
     "manifest.webmanifest": {
@@ -34,7 +34,7 @@
       "size": 586
     },
     "preview-metadata.json": {
-      "sha256": "bb20d2b85da1ab540f04f27f0e33dfc901237e09986ca5fdb0a435b56c3987bd",
+      "sha256": "e8a9cd1ee6d1d3dfc113fd7622e9f0617bee35d2b074029b51634808db6de7e9",
       "size": 181
     },
     "pwa-192x192.png": {
@@ -46,7 +46,7 @@
       "size": 3367
     },
     "sw.js": {
-      "sha256": "6eeb4d4aeb8bf926f5907449d5effc740dffec0cf3d82b2e6e4a8de570914136",
+      "sha256": "4487eeec2dac2a2da17e24af4d3730675368868012d59fa93897c6a76afd3657",
       "size": 1936
     },
     "workbox-5f44db27.js": {

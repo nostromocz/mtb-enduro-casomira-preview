@@ -9,13 +9,13 @@
       "sha256": "4dc85c24c1c367a32618a5330f2bf3041c33443ad36fbf5278a8e6bb39997b0f",
       "size": 710
     },
-    "assets/index-4tf55CtU.css": {
-      "sha256": "229a9ed4fc7c7d73b93ccf711c80d9e7f4c1a05182816ef38c73b3588bcace0c",
-      "size": 22952
+    "assets/index-CiqYOA8N.js": {
+      "sha256": "7c23f4eb9b65c9d3ded26c8b9c58a7a67a4c59a2336071cb7aaf06f4dd67a0b7",
+      "size": 416009
     },
-    "assets/index-TPSX-QBx.js": {
-      "sha256": "b18427853255c0f3201f8674553e73301ead98958ca932cabd3c3c97498d834d",
-      "size": 422708
+    "assets/index-CPKznjSq.css": {
+      "sha256": "df7f7b7bbe2b8988ad98f68efb01e5cc5d3397a394f63c9295f82a7522659a85",
+      "size": 20608
     },
     "assets/workbox-window.prod.es5-Bd17z0YL.js": {
       "sha256": "17bcc17d60dc78f927834b880c39649b03af46fd1f5cdbb8c42c5ae2b515dce9",
@@ -26,7 +26,7 @@
       "size": 376
     },
     "index.html": {
-      "sha256": "5503f7ef82261659e80fa69bdc2b82c6f67e656d355c3e105854b9369decd1f0",
+      "sha256": "e1ffd357573532e7b8da0851039fe1d3db0c49a10b39cfa205dba7e6128a301a",
       "size": 908
     },
     "manifest.webmanifest": {
@@ -34,7 +34,7 @@
       "size": 586
     },
     "preview-metadata.json": {
-      "sha256": "a3356504a534b89c46a2ef3b02181b7027fff40ceba9d4bdcc9fb81383e2dbf1",
+      "sha256": "8430a9cce85027c9095add888077e5e8e1629c358d657ab7048fe4089184988e",
       "size": 181
     },
     "pwa-192x192.png": {
@@ -46,7 +46,7 @@
       "size": 3367
     },
     "sw.js": {
-      "sha256": "01d285a3a1cd59ba8daff88b2ed9143b9611f52bd05c41c09a1ff34c2a54667b",
+      "sha256": "729fc778e4fbb8080176ac50227ce69085b6dade5ebc30a14451a23fef8c733c",
       "size": 1936
     },
     "workbox-5f44db27.js": {
